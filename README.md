@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**hcw5/hcw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcw5&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**
+- **Go**
+- **C**
+- **Node.js**
+- **JavaScript**
+- **MongoDB**
+- **PostgreSQL**
+- **Rust**
+
+Feel free to explore my repositories and connect with me!
