@@ -21,8 +21,8 @@ $ echo "welcome to the neo dev grid"
 ## 📊 Neo Stats Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcw5&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub account statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcw5&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages across repositories" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hcw5&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub account statistics" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hcw5&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages across repositories" height="170" />
 </div>
 
 ## 🧪 Language Focus (C / Python / Go)
