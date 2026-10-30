@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hcw5&label=Profile%20views&color=00c7a9&style=flat" alt="Profile view counter" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=00e5a8&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="Public repository count" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=32d9c7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="GitHub follower count" />
 </p>
 
 <div align="center">
@@ -21,8 +19,16 @@ $ echo "welcome to the neo dev grid"
 ## 📊 Neo Stats Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hcw5&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub account statistics" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hcw5&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages across repositories" height="170" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00e5a8&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="Public repository count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=32d9c7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="GitHub follower count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00c2ff&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="GitHub following count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=3dffcf&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="Public gist count" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=00599C&label=C%20Repos&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ahcw5%2Blanguage%3AC" alt="Repository count tagged as C" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=3776AB&label=Python%20Repos&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ahcw5%2Blanguage%3APython" alt="Repository count tagged as Python" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00ADD8&label=Go%20Repos&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%3Ahcw5%2Blanguage%3AGo" alt="Repository count tagged as Go" />
 </div>
 
 ## 🧪 Language Focus (C / Python / Go)
@@ -34,8 +40,8 @@ $ echo "welcome to the neo dev grid"
 </div>
 
 - **C, Python, and Go** are highlighted above as primary focus languages.
-- **Most-used language data** comes from the GitHub Readme Stats language card and is computed from repository code composition.
-- GitHub profile READMEs do not expose exact built-in per-language contribution totals for only C/Python/Go, so this is the most maintainable GitHub-compatible approach.
+- **C/Python/Go repo metrics** above are pulled from GitHub Search API counts via Shields dynamic badges.
+- GitHub profile READMEs do not expose exact built-in per-language contribution totals for only C/Python/Go, so repository-count badges are used as a stable GitHub-compatible approach.
 
 ## ℹ️ Profile Visibility Notes
 
