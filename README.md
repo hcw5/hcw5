@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00110B,50:003B2F,100:00E5A8&text=NEO%20%2F%2F%20HCW5&fontColor=8BFFE8&fontAlignY=40&desc=Cyberpunk%20Code%20Matrix&descAlignY=60&animation=fadeIn" alt="Neon cyberpunk banner reading NEO // HCW5" />
+  <img src="./assets/neo-banner.svg" alt="Neon cyberpunk banner reading NEO // HCW5" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hcw5&label=Profile%20views&color=00c7a9&style=flat" alt="Profile view counter" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00e5a8&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="Public repository count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=32d9c7&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhcw5" alt="GitHub follower count" />
 </p>
 
 <div align="center">
@@ -19,11 +21,7 @@ $ echo "welcome to the neo dev grid"
 ## 📊 Neo Stats Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcw5&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub account statistics" height="170" />
-  <img src="https://streak-stats.demolab.com?user=hcw5&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="170" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hcw5&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub account statistics" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcw5&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages across repositories" height="170" />
 </div>
 
@@ -38,6 +36,11 @@ $ echo "welcome to the neo dev grid"
 - **C, Python, and Go** are highlighted above as primary focus languages.
 - **Most-used language data** comes from the GitHub Readme Stats language card and is computed from repository code composition.
 - GitHub profile READMEs do not expose exact built-in per-language contribution totals for only C/Python/Go, so this is the most maintainable GitHub-compatible approach.
+
+## ℹ️ Profile Visibility Notes
+
+- Your profile README appears on `github.com/hcw5` only when this repository is **public**, named exactly `hcw5`, and this README is on the repository **default branch**.
+- If changes only appear inside the repo page, merge the branch into the default branch and confirm repository visibility settings.
 
 ## 🔗 Connect
 
